@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512709992679",
+    "firebase_url": "https://ventre-mate.firebaseio.com",
+    "project_id": "ventre-mate",
+    "storage_bucket": "ventre-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512709992679:android:2ffa7f79a1b29a7f560242",
+        "android_client_info": {
+          "package_name": "com.example.ventremate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512709992679-vvm6ql5njdtb7vp2ggu7llu5eom8qt61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ventremate",
+            "certificate_hash": "dd3a3b7e99c05d2161a781799b7ad98a3aefa49c"
+          }
+        },
+        {
+          "client_id": "512709992679-2m83r9ph30b67cbvecvh9vf4287vgq2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZpxr8jrRfLnibjd5DAJCOnnNd5NTwuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512709992679-2m83r9ph30b67cbvecvh9vf4287vgq2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
